@@ -6,7 +6,8 @@
 
 ### ✨ New features and improvements
 - Fix front-end content shift when an input element is focused (#7384)
-
+- Display HTML previews of Rmarkdown files (#7390)
+-
 ### 🐛 Bug fixes
 
 - Ensures row selection for peer reviewer unassigning has the same validation checks as individual selections (#7274)
